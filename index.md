@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Publications & Manuscripts](/Publication_Manuscripts)
-<img src="images/volcano.png?raw=true"/>
+<img src="images/Volcano.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
