@@ -11,5 +11,6 @@ description: > # your text below (remove <br> elements if you don't need line br
  <a href="https://www.linkedin.com/in/koi-bio-data/">View My LinkedIn Profile</a> 
  <br><br>  
  <a href="https://scholar.google.ca/citations?user=7Xrudt0AAAAJ&hl=en">View My Google Scholar</a> 
-
+ Contact me
+  <a nguyenkhoibiotech@gmail.com </a>
 theme: jekyll-theme-minimal
