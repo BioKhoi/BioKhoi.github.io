@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Publications & Manuscript](/Publication_Manuscripts)
+[Publications & Manuscripts](/Publication_Manuscripts)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
