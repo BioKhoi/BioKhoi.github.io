@@ -1,6 +1,6 @@
-# Publication and Manuscripts (total 12) in FOUR research areas 
+## Publication and Manuscripts (total 12) in FOUR research areas 
 
-## Dietary Interventions - Human gut microbiome
+## 1.Dietary Interventions - Human gut microbiome
 
 -    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) - _**Microbiome, 2020 ( IF: 14.6 )**_ <br>
 **Nguyen K Nguyen #**, Edward C Deehan #, [...] Dan Knights, Jeffrey A Bakal, Carla M Prado, Jens Walter.
@@ -17,7 +17,7 @@ Edward C. Deehan; Zhengxiao Zhang; Alessandra Riva; Anissa M. Armet; Maria Elisa
 -   [Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of *Bifidobacterium longum* within the gut microbiota](https://biokhoi.github.io/2Contact.md) - _**Manuscript is in preparation.**_ <br> 
 Edward C. Deehan, Zhengxiao Zhang, **Nguyen K. Nguyen**, [...], Jens Walter.
 <br /> <br />
-## Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
+## 2.Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) - _**Journal of Investigative Dermatology, 2021 ( IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
@@ -30,12 +30,12 @@ Misty Riddle, **Nguyen K Nguyen**, Clifford Tabin
 -    [Ivermectin - Microbiome](https://biokhoi.github.io/2Contact.md) <br>  _**Manuscript is in preparation.**_
 <br /> <br />
 
-## Gut-Brain axis
+## 3.Gut-Brain axis
 
 <br /> <br />
 
 
-## Bacterial Symbiosis - Fermented Food
+## 4.Bacterial Symbiosis - Fermented Food
 -    [Screening the optimal ratio of symbiosis between isolated yeast and acetic acid bacteria strain from traditional kombucha for high-level production of glucuronic acid](https://www.sciencedirect.com/science/article/abs/pii/S0023643815300323) - <br> _**LWT - Food Science and Technology, 2015 (IF: 4.95)**_ <br>
 **Nguyen Khoi Nguyen**, Phuong Bang Nguyen, Huong Thuy Nguyen, Phu Hong Le
 <br /> <br />
@@ -47,3 +47,6 @@ Misty Riddle, **Nguyen K Nguyen**, Clifford Tabin
 -   [Effects of Lactobacillus casei and Alterations in Fermentation Conditions on Biosynthesis of Glucuronic Acid by a Dekkera bruxellensis-Gluconacetobacter intermedius Kombucha Symbiosis Model System](https://www.tandfonline.com/doi/abs/10.1080/08905436.2015.1092446) - <br> _**Food Biotechnology, 2015 (IF: 1.5)**_ <br>
 **Nguyen Khoi Nguyen**, Ngan Thi Ngoc Dong, Huong Thuy Nguyen, Phu Hong Le
 <br /> <br />
+
+## [BACK](https://biokhoi.github.io/)
+
