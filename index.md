@@ -10,6 +10,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+
 <img src="images/my_skill.png?raw=true"/>
 
 ---
