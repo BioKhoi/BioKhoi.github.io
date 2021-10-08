@@ -4,7 +4,7 @@
 
 ### [Publications & Manuscripts](/Publication_Manuscripts)
 
-<img src="images/Volcano.png?raw=true"/> <img src="images/3D.png?raw=true"/>
+<img src="images/Volcano.png?raw=true"/>  <img src="images/3D.png?raw=true"/>  <img src="images/Density.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
