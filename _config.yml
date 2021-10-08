@@ -1,11 +1,21 @@
 title: Khoi Nguyen Nguyen # your name (or website title) here
 logo: "/images/avatar_web.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  
   <br><br>
+  
+  
   First description 
+  
+  
   <br><br>
+  
+  
   Second description 
   <br><br>
+  
+  
+  
   <a href="https://www.linkedin.com/in/koi-bio-data/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
