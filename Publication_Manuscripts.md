@@ -17,6 +17,7 @@ Edward C. Deehan; Zhengxiao Zhang; Alessandra Riva; Anissa M. Armet; Maria Elisa
 -   [Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of *Bifidobacterium longum* within the gut microbiota](https://biokhoi.github.io/2Contact.md) - _**Manuscript is in preparation.**_ <br> 
 Edward C. Deehan, Zhengxiao Zhang, **Nguyen K. Nguyen**, [...], Jens Walter.
 <br /> <br />
+
 ## 2.Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) - _**Journal of Investigative Dermatology, 2021 ( IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
