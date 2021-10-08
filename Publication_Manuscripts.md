@@ -22,7 +22,7 @@ EC Deehan, Z Zhang, **NK Nguyen**, [...], J Walter.
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) - _**Journal of Investigative Dermatology, 2021 ( IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
--    [Influence of aggregate mining disturbance on soil health and bacterial microbiome of pioneering pines](https://biokhoi.github.io/Publication_Manuscripts) - <br> _**Manuscript is in preparation.**_ <br>
+-    [Influence of aggregate mining disturbance on soil health and bacterial microbiome of pioneering pines](https://biokhoi.github.io/Publication_Manuscripts) - <br> _**Manuscript was subbmitted to Soil Biology and Biochemistry.**_ <br>
 KP Padda, A Puri, **NK Nguyen**, TJ Phipott, CP Chanway
 <br /> <br />
 -    [Evolution of the gut microbiome in river and cave-adapted *Astyanax mexicanus*](https://biokhoi.github.io/Publication_Manuscripts) <br>  _**Manuscript is in preparation.**_ <br>
