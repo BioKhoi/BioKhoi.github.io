@@ -5,6 +5,7 @@
 ### Category Name 1 
 
 [Publications & Manuscripts](/Publication_Manuscripts)
+<br /> <br /> 
 <img src="images/Volcano.png?raw=true"/>
 
 ---
