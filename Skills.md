@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>SKill</h1>
+<h1>SKills</h1>
 <h3>DRY LAB</h3>
 
 
