@@ -1,17 +1,17 @@
-## My Background
+### My Background
 
 <img src="images/skills.png?raw=true"/>
 
 ---
 
-### [Publications & Manuscripts](/Publication_Manuscripts)
+[Publications & Manuscripts](/Publication_Manuscripts)
 
 <img src="images/journals.png?raw=true"/> 
 
 ---
-### [Skills](/Skills)
+[Skills](/Skills)
 
-<img src="images/2Skills.png?raw=true"/> 
+<img src="images/1Skills.png?raw=true"/> 
 
 ---
 [Project 3 Title](http://example.com/)
