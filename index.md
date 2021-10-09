@@ -6,7 +6,7 @@
 
 [Publications & Manuscripts](/Publication_Manuscripts)
 
-<img src="images/journals.png?raw=true"/> (/Publication_Manuscripts)
+[<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
 
 ---
 [Skills](/Skills)
