@@ -1,4 +1,4 @@
-### Background
+## My Background
 
 <img src="images/skills.png?raw=true"/>
 
@@ -9,7 +9,7 @@
 <img src="images/journals.png?raw=true"/> 
 
 ---
-### [Skills](/pdf/sample_presentation.pdf)
+### [Skills](/Skills)
 
 <img src="images/Volcano.png?raw=true"/> <img src="images/Density.png?raw=true"/>
 
