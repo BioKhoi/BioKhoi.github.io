@@ -1,12 +1,12 @@
-## Background
+### Background
+
 <img src="images/skills.png?raw=true"/>
+
 ---
 
 ### [Publications & Manuscripts](/Publication_Manuscripts)
 
 <img src="images/journals.png?raw=true"/> 
-
-
 
 ---
 ### [Skills](/pdf/sample_presentation.pdf)
