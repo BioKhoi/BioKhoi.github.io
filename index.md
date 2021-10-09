@@ -1,17 +1,17 @@
-## Portfolio
-
+## Background
+<img src="images/my_skills.png?raw=true"/>
 ---
 
 ### [Publications & Manuscripts](/Publication_Manuscripts)
 
-<img src="images/Volcano.png?raw=true"/> <img src="images/Density.png?raw=true"/>
+<img src="images/journals.png?raw=true"/> 
 
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### [Skills](/pdf/sample_presentation.pdf)
 
-<img src="images/my_skills.png?raw=true"/>
+<img src="images/Volcano.png?raw=true"/> <img src="images/Density.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
