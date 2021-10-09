@@ -11,7 +11,7 @@
 ---
 ### [Skills](/Skills)
 
-<img src="images/Khoi_lab.png?raw=true"/> <img src="images/drylab.png?raw=true"/>
+<img src="images/2Skills.png?raw=true"/> 
 
 ---
 [Project 3 Title](http://example.com/)
