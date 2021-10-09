@@ -1,5 +1,5 @@
 ## Background
-<img src="images/my_skills.png?raw=true"/>
+<img src="images/skills.png?raw=true"/>
 ---
 
 ### [Publications & Manuscripts](/Publication_Manuscripts)
