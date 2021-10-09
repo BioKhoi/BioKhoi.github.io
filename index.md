@@ -15,7 +15,7 @@
 
 ---
 [Experience](/EXP)
-<img src="images/EXP.jpg?raw=true"/>
+<img src="images/EXP.png?raw=true"/>
 
 ---
 
