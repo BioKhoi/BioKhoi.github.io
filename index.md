@@ -11,7 +11,7 @@
 ---
 [Skills](/Skills)
 
-<img src="images/1Skills.png?raw=true"/> (/Skills)
+[<img src="images/1Skills.png?raw=true"/>](/Skills)
 
 ---
 [Project 3 Title](http://example.com/)
