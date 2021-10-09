@@ -11,7 +11,7 @@
 ---
 ### [Skills](/Skills)
 
-<img src="images/Volcano.png?raw=true"/> <img src="images/Density.png?raw=true"/>
+<img src="images/wetlab.png?raw=true"/> <img src="images/Density.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
