@@ -9,7 +9,7 @@
 [<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
 
 ---
-[Skills(Wet & Dry Lab](/Skills)
+[Skills(Wet & Dry Lab)](/Skills)
 
 [<img src="images/1Skills.png?raw=true"/>](/Skills)
 
