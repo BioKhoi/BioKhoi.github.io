@@ -24,6 +24,7 @@
 ---
 [About me](/Aboutme)
 
+[<img src="images/dance1.png?raw=true"/>](/Aboutme)
 ---
 
 
