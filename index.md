@@ -2,6 +2,7 @@
 
 <img src="images/skills.png?raw=true"/>
 ---
+
 [Publications, Manuscripts & Presentations](/Publication_Manuscripts)
 
 [<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
