@@ -50,7 +50,10 @@ M Riddle, **NK Nguyen**, C Tabin
 
 Conferences | Session | Talks | Dates
 ----------- | ------- | ----- | ---------
-NUTRITION 2021 LIVE ONLINE - American Society for Nutrition | Emerging Science - Hightlights from Rapid Science Submissions | "Elucidating the Role of the Gut Microbiota in the Physiological Effects of Dietary Fiber" | JUNE, 2021  |
+NUTRITION 2021 LIVE ONLINE - American Society for Nutrition | Emerging Science - Hightlights from Rapid Science Submissions | "Elucidating the Role of the Gut Microbiota in the Physiological Effects of Dietary Fiber" | JUNE, 2021
+ADI Research Day - Alberta Diabetes Institute & University of Alberta | Full talk | "Exporing the modulation of human gut microbiota composition and metabolic function by dietary Arabinoxylan supplementation" | OCTOBER, 2017
+
+
 
 
 
