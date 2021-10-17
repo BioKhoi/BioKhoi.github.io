@@ -1,4 +1,4 @@
-## Publication and Manuscripts (total 12) in FOUR research areas 
+## Publication and Manuscripts (total 12) in THREE research areas 
 
 ## 1.Dietary Interventions - Human gut microbiome
 
@@ -31,12 +31,8 @@ M Riddle, **NK Nguyen**, C Tabin
 -    [Ivermectin - Microbiome](https://biokhoi.github.io/Publication_Manuscripts) <br>  _**Manuscript is in preparation.**_
 <br /> <br />
 
-## 3.Gut-Brain axis
 
-<br /> <br />
-
-
-## 4.Bacterial Symbiosis - Fermented Food
+## 3.Bacterial Symbiosis - Fermented Food
 -    [Screening the optimal ratio of symbiosis between isolated yeast and acetic acid bacteria strain from traditional kombucha for high-level production of glucuronic acid](https://www.sciencedirect.com/science/article/abs/pii/S0023643815300323) - <br> _**LWT - Food Science and Technology, 2015 (IF: 4.95)**_ <br>
 **NK Nguyen**, PB Nguyen, HT Nguyen, PH Le
 <br /> <br />
@@ -52,6 +48,18 @@ M Riddle, **NK Nguyen**, C Tabin
 
 ## Presentations
 
+Conferences | Session | Talks | Dates
+----------- | ------- | ----- | ---------
+NUTRITION 2021 LIVE ONLINE - American Society for Nutrition | Emerging Science - Hightlights from Rapid Science Submissions | "Elucidating the Role of the Gut Microbiota in the Physiological Effects of Dietary Fiber" | JUNE, 2021  |
+
+
+
+ 
+Presenting a research at ADI Research Day held by Alberta Diabetes Institute and University of Alberta (OCTOBER, 2017)
+   
+
+Session Title: Full talk: Clinical/ Population Health Research
+Presentation Title: Exploring the modulation of human gut microbiota composition and MetaBolic Function by dietary arabinoxylan supplementation
 
 ## [BACK](https://biokhoi.github.io/)
 
