@@ -19,7 +19,7 @@
 [<img src="images/1Skills.png?raw=true"/>](/Skills)
 
 ---
-[Experience & Services](/EXP)
+[Experience, Projects & Services](/EXP)
 
 [<img src="images/EXP.png?raw=true"/>](/EXP)
 
