@@ -1,36 +1,35 @@
-### My Background
+### My research focus on
 
 <img src="images/skills.png?raw=true"/>
-
 ---
-
-[Publications & Manuscripts](/Publication_Manuscripts)
+[Publications, Manuscripts & Presentations](/Publication_Manuscripts)
 
 [<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
 
 ---
+[Honour & Networks](/Honour_Network)
+
+---
+
 [Skills(Wet & Dry Lab)](/Skills)
 
 [<img src="images/1Skills.png?raw=true"/>](/Skills)
 
 ---
-[Experience](/EXP)
+[Experience & Services](/EXP)
 
 [<img src="images/EXP.png?raw=true"/>](/EXP)
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[About me](/Aboutme)
 
 ---
 
 
 
 
----
+
+
+
+
+
