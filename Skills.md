@@ -19,7 +19,8 @@
  
  [<img src="images/Dry1.png?raw=true"/>](/Skills)
  
-  
+ [<img src="images/map1.png?raw=true"/>](/Skills)
+ 
 ### WET LAB
   
 
