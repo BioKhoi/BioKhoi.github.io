@@ -12,7 +12,7 @@
  
  - Analysing biostatistic data (cleaning data, exploratory data analysis, univariate-mulivariate analyses, linear & non-linear regressions)
  
- [<img src="images/3hinh.png?raw=true"/>](/Skills)
+ [<img src="images/4hinh.png?raw=true"/>](/Skills)
 
  ---
  - Performming machine learning (random forest, ROC, cluster analysis, feature selections, network analysis)
