@@ -11,7 +11,7 @@
 
  ---
  - Performming machine learning (random forest, ROC, cluster analysis, feature selections, network analysis)
-  [<img src="images/Net2.png?raw=true"/>](/Skills)
+  [<img src="images/Net3.png?raw=true"/>](/Skills)
  ---
  - Visualizing data (presenting complex data: longitudinal data, multi-dimension data, making infographic to achieve the best story-telling effect) 
  
