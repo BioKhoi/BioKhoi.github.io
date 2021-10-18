@@ -6,8 +6,13 @@
 
 
  - Applying programming languages (R, Rmarkdown, Unix shell, html, SQL ) 
- - Employing bioinformatic tools to process 16S rRNA raw sequencing data (Mothur, Usearch, QIIME) 
+ - Employing bioinformatic tools to process 16S rRNA raw sequencing data (Mothur, Usearch, QIIME)
+ 
+ --- 
+ 
  - Analysing biostatistic data (cleaning data, exploratory data analysis, univariate-mulivariate analyses, linear & non-linear regressions)
+ 
+ [<img src="images/3hinh.png?raw=true"/>](/Skills)
 
  ---
  - Performming machine learning (random forest, ROC, cluster analysis, feature selections, network analysis)
