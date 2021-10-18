@@ -24,12 +24,18 @@
 ### WET LAB
   
 
-- Handling and processing bioharzad samples (human blood, fecal samples,  culture of pathogenic bacteria ...)
-- Extracting and quantifying DNA (fecal samples)
-- Culturing and isolating technique (bacteria, yeats, mushroom, fungi) 
-- Performing in-vitro fermentation (batch, continuous, solid-state fermentation)
-- Testing anti-microbial susceptibilty (Agar-well diffusion method, determining minimum bactericidal concentration) 
-- Performming thin-layer chromatography 
+- **Handling and processing bioharzad samples** (human blood, fecal samples,  culture of pathogenic bacteria ...)
+- **Extracting and quantifying DNA** (fecal samples)
+- **Culturing and isolating technique** (bacteria, yeats, mushroom, fungi) 
+- **Performing in-vitro fermentation** (batch, continuous, solid-state fermentation)
+- **Testing anti-microbial susceptibilty** (Agar-well diffusion method, determining minimum bactericidal concentration) 
+- **Performming thin-layer chromatography** 
+
+---
+ 
+ [<img src="images/wet1.png?raw=true"/>](/Skills)
+ 
+ [<img src="images/wet2.png?raw=true"/>](/Skills)
 
 ### OTHER SKILLS
 
