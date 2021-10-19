@@ -8,7 +8,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 1. Study the effect of **Ivermectin on gut microbiota** using animal model - **_Peggy L Kandell, MD_, Washinton University in St Loouis.**
    -  Leaded and performed microbiome data (16Sv4) analysis (community examination, identifying differential abundant taxa)
    -  Applied unsupervised clustering technique to distingush main traits by microbiome features
-   -  Identified co-abundance group of bacteria and assessed their inter and intra [association network](https://cytoscape.org/) to evaluate the impact of Ivermectin on ecology
+   -  Identified co-abundance group (CAG: [method](https://link.springer.com/article/10.1186/s40168-020-00887-w;)) of bacteria and assessed their inter and intra [association network](https://cytoscape.org/) to evaluate the impact of Ivermectin on bacterial ecology
 2. Study the effect of wearing a **N95 mask** on **skin microbiome** - **_Grey Hillerband, PhD_, Ammway**
    - Processed raw amplicon sequecing data (16Sv1v3)
    - Examined longitudinal data of skin microbiome and performed univariate & multivariate analysis
