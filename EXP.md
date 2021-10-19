@@ -28,6 +28,10 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
    - Processed raw amplicon sequecing data (16Sv4 & ITS2)
    - Illustrated microbiome and mycobiom communities using [Krona chart](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-385)
    - Converting microbiome data using [Phylogenetic Isometric Log-Ratio Transform (Philr)](https://bioconductor.org/packages/release/bioc/html/philr.html) before applying [environmental fitting vector](https://www.rdocumentation.org/packages/vegan/versions/2.4-2/topics/envfit) to determin the association bettween microorganism and soil parameters on [principal component analysis](https://www.nature.com/articles/nmeth.4346)
+
+
+
+
 Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, 
 performing advanced analyses, visualizing data, developing code for particular statistical tasks, gathering and depositing genomic data, 
  identifying taxonomy and gene functions 
