@@ -30,16 +30,14 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
    - Converting microbiome data using [Phylogenetic Isometric Log-Ratio Transform (Philr)](https://bioconductor.org/packages/release/bioc/html/philr.html) before applying [environmental fitting vector](https://www.rdocumentation.org/packages/vegan/versions/2.4-2/topics/envfit) to determin the association bettween microorganism and soil parameters on [principal component analysis](https://www.nature.com/articles/nmeth.4346)
 
 
+#### Voluntary Project 
 
+[Efficacy of Lifestyle Intervention in BRCA1/2 Mutation Carriers (LIBRE-2)](https://clinicaltrials.gov/ct2/show/NCT02516540) _**Prof. Stephan C Bischoff, MD_, Univeristy of Hohenheim 
+ - Leaded the data analysis part to study the impact of Mediterranean diet on gut barrier function of women with high risk of breast cancer
+ - Performed Mediation analysis to identify the possible mechanisms between Diet, SCFA and gut barrier function
+ - Identified different partterns of the response within the same treatment to raise the question regarding indidualised responses by [clustering subjects](https://www.rdocumentation.org/packages/factoextra/versions/1.0.7/topics/fviz_dend) on [cirle heatmap](https://jokergoo.github.io/circlize_book/book/circos-heatmap.html)
+ - Visualised multi-dimensional data in [complex heatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) 
 
-Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, 
-performing advanced analyses, visualizing data, developing code for particular statistical tasks, gathering and depositing genomic data, 
- identifying taxonomy and gene functions 
-Contributed to grant application by preparing SOP, manuals of gut microbiome analysis from human sample collection to data analysis. 
-Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, 
-conducting literature review and training a visiting scholar in a collaborative project.
-
-#### Voluntary Project
 
      
 ### Research Assistant | Li Ka Shing Center for Health Research Innovation| University of Alberta | Edmonton, AB, Canada | 2016 - 2019
@@ -54,7 +52,7 @@ conducting literature review and training a visiting scholar in a collaborative 
 
 ## INDUSTRY EXPERIENCE
 
-
+will be available soon!
 
 
 ## [BACK](https://biokhoi.github.io/)
