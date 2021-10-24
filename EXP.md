@@ -37,7 +37,8 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
  - Performed Mediation analysis to identify the possible mechanisms between Diet, SCFA and gut barrier function
  - Identified different partterns of the response within the same treatment to raise the question regarding indidualised responses by [clustering subjects](https://www.rdocumentation.org/packages/factoextra/versions/1.0.7/topics/fviz_dend) on [cirle heatmap](https://jokergoo.github.io/circlize_book/book/circos-heatmap.html)
  - Visualised multi-dimensional data in [complex heatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) 
-
+ - Performed Machine learning (Random Forest Classification - [Caret package](https://cran.r-project.org/web/packages/caret/vignettes/caret.html); [ROC curve](https://cran.r-project.org/web/packages/ROSE/ROSE.pdf) ) to test if baseline characteristics can determine the individual response to Mediterranean diet
+ - 
 
      
 ### Research Assistant | Li Ka Shing Center for Health Research Innovation| University of Alberta | Edmonton, AB, Canada | 2016 - 2019
