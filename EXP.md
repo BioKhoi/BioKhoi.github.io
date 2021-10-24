@@ -32,13 +32,15 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 
 #### Voluntary Project 
 
-[Efficacy of Lifestyle Intervention in BRCA1/2 Mutation Carriers (LIBRE-2)](https://clinicaltrials.gov/ct2/show/NCT02516540) - _**Prof. Stephan C Bischoff, MD**_, **Univeristy of Hohenheim** 
- - Leaded the data analysis part to study the impact of Mediterranean diet on gut barrier function of women with high risk of breast cancer
- - Performed [Mediation analysis](https://cran.r-project.org/web/packages/mediation/vignettes/mediation.pdf) to identify the possible mechanisms between Diet, SCFA and gut barrier function
- - Identified different partterns of the response within the same treatment to raise the question regarding indidualised responses by [clustering subjects](https://www.rdocumentation.org/packages/factoextra/versions/1.0.7/topics/fviz_dend) on [cirle heatmap](https://jokergoo.github.io/circlize_book/book/circos-heatmap.html)
- - Visualised multi-dimensional data in [complex heatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) 
- - Performed Machine learning (Random Forest Classification - [Caret package](https://cran.r-project.org/web/packages/caret/vignettes/caret.html); [ROC curve](https://cran.r-project.org/web/packages/ROSE/ROSE.pdf) ) to test if baseline characteristics can determine the individual response to Mediterranean diet
- - 
++ [Efficacy of Lifestyle Intervention in BRCA1/2 Mutation Carriers (LIBRE-2)](https://clinicaltrials.gov/ct2/show/NCT02516540) - _**Prof. Stephan C Bischoff, MD**_, **Univeristy of Hohenheim** 
+    - Leaded the data analysis part to study the impact of Mediterranean diet on gut barrier function of women with high risk of breast cancer
+    - Performed [Mediation analysis](https://cran.r-project.org/web/packages/mediation/vignettes/mediation.pdf) to identify the possible mechanisms between Diet, SCFA and gut barrier function
+    - Identified different partterns of the response within the same treatment to raise the question regarding indidualised responses by [clustering subjects](https://www.rdocumentation.org/packages/factoextra/versions/1.0.7/topics/fviz_dend) on [cirle heatmap](https://jokergoo.github.io/circlize_book/book/circos-heatmap.html)
+    - Visualised multi-dimensional data in [complex heatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) 
+    - Performed Machine learning (Random Forest Classification - [Caret package](https://cran.r-project.org/web/packages/caret/vignettes/caret.html); [ROC curve](https://cran.r-project.org/web/packages/ROSE/ROSE.pdf) ) to test if baseline characteristics can determine the individual response to Mediterranean diet
+    - Introduced the study, design, method and results by generating infographic figure
+    - Generated the [discussion figure](https://biorender.com/) which highlights the implication of machine learning in predicting the response and raised the questions on the possible underline mechanisms of how diet can impact the gut integrity. 
+    - Participated in writing the manuscript
 
      
 ### Research Assistant | Li Ka Shing Center for Health Research Innovation| University of Alberta | Edmonton, AB, Canada | 2016 - 2019
