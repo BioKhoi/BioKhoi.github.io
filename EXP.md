@@ -32,7 +32,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 
 #### Voluntary Project 
 
-[Efficacy of Lifestyle Intervention in BRCA1/2 Mutation Carriers (LIBRE-2)](https://clinicaltrials.gov/ct2/show/NCT02516540) _**Prof. Stephan C Bischoff, MD_, Univeristy of Hohenheim** 
+[Efficacy of Lifestyle Intervention in BRCA1/2 Mutation Carriers (LIBRE-2)](https://clinicaltrials.gov/ct2/show/NCT02516540) - _**Prof. Stephan C Bischoff, MD**_, **Univeristy of Hohenheim** 
  - Leaded the data analysis part to study the impact of Mediterranean diet on gut barrier function of women with high risk of breast cancer
  - Performed Mediation analysis to identify the possible mechanisms between Diet, SCFA and gut barrier function
  - Identified different partterns of the response within the same treatment to raise the question regarding indidualised responses by [clustering subjects](https://www.rdocumentation.org/packages/factoextra/versions/1.0.7/topics/fviz_dend) on [cirle heatmap](https://jokergoo.github.io/circlize_book/book/circos-heatmap.html)
