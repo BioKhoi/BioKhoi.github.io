@@ -51,9 +51,9 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
  
  2. [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
  
-   - Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, performing advanced analyses, visualizing data, writing code for particular statistical tasks, gathering and depositing genomic data, identifying taxonomy and gene functions.
-   - Contributed to grant application by preparing SOP, manuals of gut microbiome analysis from human sample collection to data analysis.
-   - Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, conducting literature review and training a visiting scholar in a collaborative project.
+      - Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, performing advanced analyses, visualizing data, writing code for particular statistical tasks, gathering and depositing genomic data, identifying taxonomy and gene functions.
+      - Contributed to grant application by preparing SOP, manuals of gut microbiome analysis from human sample collection to data analysis.
+      - Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, conducting literature review and training a visiting scholar in a collaborative project.
 
  #### Voluntary Project 
  
