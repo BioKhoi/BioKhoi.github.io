@@ -1,7 +1,7 @@
 ## ACADEMIC RESEARCH EXPERIENCE
 
 ---
-#### Microbiome Data Scietist | Microbiome Insights Inc | Vancouver, BC, Canada |2020 - present
+#### Microbiome Data Scietist | Microbiome Insights Inc | Vancouver, BC, Canada |Feb 2020 - present
 
 Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soil** samples from more than **99 projects** 
 #### Selected projects:
@@ -43,12 +43,26 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
     - Participated in writing the manuscript
 
      
-### Research Assistant | Li Ka Shing Center for Health Research Innovation| University of Alberta | Edmonton, AB, Canada | 2016 - 2019
+### Research Assistant | Li Ka Shing Center for Health Research Innovation| University of Alberta | Edmonton, AB, Canada | May 2016 - Jan 2020
 
+ #### Main Projects
+ 
+ [FYBER project](https://clinicaltrials.gov/ct2/show/NCT02322112)  
+ 
+ [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
+ 
+ 
+ #### Voluntary Project 
  
 
 
-### Research Assistant | International University - VNU - HCM| HoChiMinh city | Vietnam | 2012-2015
+### Research Assistant | International University - VNU - HCM| HoChiMinh city | Vietnam | July 2012-Oct 2015
+
+
+
+
+
+
 
 
 
