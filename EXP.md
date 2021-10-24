@@ -34,7 +34,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 
 [Efficacy of Lifestyle Intervention in BRCA1/2 Mutation Carriers (LIBRE-2)](https://clinicaltrials.gov/ct2/show/NCT02516540) - _**Prof. Stephan C Bischoff, MD**_, **Univeristy of Hohenheim** 
  - Leaded the data analysis part to study the impact of Mediterranean diet on gut barrier function of women with high risk of breast cancer
- - Performed Mediation analysis to identify the possible mechanisms between Diet, SCFA and gut barrier function
+ - Performed [Mediation analysis](https://cran.r-project.org/web/packages/mediation/vignettes/mediation.pdf) to identify the possible mechanisms between Diet, SCFA and gut barrier function
  - Identified different partterns of the response within the same treatment to raise the question regarding indidualised responses by [clustering subjects](https://www.rdocumentation.org/packages/factoextra/versions/1.0.7/topics/fviz_dend) on [cirle heatmap](https://jokergoo.github.io/circlize_book/book/circos-heatmap.html)
  - Visualised multi-dimensional data in [complex heatmap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) 
  - Performed Machine learning (Random Forest Classification - [Caret package](https://cran.r-project.org/web/packages/caret/vignettes/caret.html); [ROC curve](https://cran.r-project.org/web/packages/ROSE/ROSE.pdf) ) to test if baseline characteristics can determine the individual response to Mediterranean diet
