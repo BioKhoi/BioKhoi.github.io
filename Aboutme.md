@@ -20,7 +20,7 @@
 ### Have you ever grown medicinal Reshi mushroom ?
 
 
-### I can turn Polymer-clay into flowers
+### I can turn [Polymer-clay into flowers](/pdf/Khoi_clay_flower.pdf)
 
 
 
