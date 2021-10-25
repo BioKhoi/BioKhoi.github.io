@@ -52,18 +52,17 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 
    - Processed raw 16S rRNA (v5v6) sequencing data by ([QIIME](http://qiime.org/), [USEARCH](https://www.drive5.com/usearch/), [FASTX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/))
    - Applied [Centered-log-ratio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695134/) to transform microbiome data to control for composionality.  
-   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design ([GEE model](https://www.jstatsoft.org/article/view/v015i02); Mann-whitney, Wilcoxon sign ranked test, Friedman test, [Multile linear regression](https://www.investopedia.com/terms/m/mlr.asp), [AICc](https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-1/topics/AICc)for model selection)
-   - Assessed bacterial community by a wide range of Alpha diversity indices (**Shannon, Simpson, Obsersed species, Unifrac**), Beta diversity distances (Bray-curtis, Euclidean - with transformed data) visualised in PCoA or [NMDS](https://mb3is.megx.net/gustame/dissimilarity-based-methods/nmds))
-   - 
+  
+   - Assessed bacterial community by a wide range of Alpha diversity indices (**Shannon, Simpson, Obsersed species, Unifrac**), Beta diversity distances (**Bray-curtis, Euclidean - with transformed data**) visualised in PCoA or [NMDS](https://mb3is.megx.net/gustame/dissimilarity-based-methods/nmds))
+   
+   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design ([GEE model](https://www.jstatsoft.org/article/view/v015i02); Mann-whitney, Wilcoxon sign ranked test, Friedman test, [Multile linear regression](https://www.investopedia.com/terms/m/mlr.asp), [AICc](https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-1/topics/AICc) for model selection)
 
    - Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, performing advanced analyses, visualizing data, writing code for particular statistical tasks, gathering and depositing genomic data, identifying taxonomy and gene functions.
+   
    - Contributed to grant application by preparing SOP, manuals of gut microbiome analysis from human sample collection to data analysis.
+ 
    - Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, conducting literature review and training a visiting scholar in a collaborative project.
       
-
-
- 
-
 
 ### Research Assistant | International University - VNU - HCM| HoChiMinh city | Vietnam | July 2012-Oct 2015
 
