@@ -17,7 +17,7 @@
 ### Ballroom dancing why not?
 
 
-### Have you ever grown medicinal Reshi mushroom - ?
+### Have you ever grown medicinal Reshi mushroom ?
 
 
 ### I can turn Polymer-clay into flowers
