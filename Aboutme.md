@@ -18,8 +18,9 @@
 
 will be avaiable soon!
 
-### Have you ever grown medicinal Reshi mushroom ?
+### Have you ever grown a medicinal Reshi mushroom ?
 
+<img src="images/Reshi.png?raw=true"/>
 
 will be avaiable soon!
 
