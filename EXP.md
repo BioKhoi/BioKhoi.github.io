@@ -55,7 +55,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
   
    - Assessed bacterial community by a wide range of Alpha diversity indices (**Shannon, Simpson, Obsersed species, Unifrac**), Beta diversity distances (**Bray-curtis, Euclidean - with transformed data**) visualised in PCoA or [NMDS](https://mb3is.megx.net/gustame/dissimilarity-based-methods/nmds))
    
-   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design ([GEE model](https://www.jstatsoft.org/article/view/v015i02); Mann-whitney, Wilcoxon sign ranked test, Friedman test, [Multile linear regression](https://www.investopedia.com/terms/m/mlr.asp), [AICc](https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-1/topics/AICc) for model selection)
+   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design ([GEE model](https://www.jstatsoft.org/article/view/v015i02); Mann-whitney, Wilcoxon sign ranked test, Friedman test, [Multiple linear regression](https://www.investopedia.com/terms/m/mlr.asp), [AICc](https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-1/topics/AICc) for model selection)
 
    - Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, performing advanced analyses, visualizing data, writing code for particular statistical tasks, gathering and depositing genomic data, identifying taxonomy and gene functions.
    
