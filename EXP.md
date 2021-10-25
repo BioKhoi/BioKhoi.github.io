@@ -45,7 +45,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
      
 ### Research Assistant | Li Ka Shing Center for Health Research Innovation| University of Alberta | Edmonton, AB, Canada | May 2016 - Jan 2020
 
- #### Main Projects
+#### Main Projects
  
 - Participate in  [FYBER project](https://clinicaltrials.gov/ct2/show/NCT02322112) & [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
 
@@ -54,7 +54,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
    - Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, conducting literature review and training a visiting scholar in a collaborative project.
       
 
- #### Voluntary Project 
+#### Voluntary Project 
  
 
 
