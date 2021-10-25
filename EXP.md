@@ -74,10 +74,14 @@ will be available soon!
 ---
 ## SERVICES
 ---
-- Peer Review ([ORCID](https://orcid.org/0000-0001-8919-3977)): Food science and technology international; International journal of food science & technology
-- Tax preparer: Canada Revenue Agency (Community volunteer income tax program-Vancouver) 2021
-- Choreography: trained students to perform Ballroom dancing for an Anniversary event in School of Biotechnology, International University – Vietnam
+- Peer Review ([ORCID](https://orcid.org/0000-0001-8919-3977)): **Food science and technology international; International journal of food science & technology**
+
+- Tax preparer: **Canada Revenue Agency** (Community volunteer income tax program-Vancouver) 2021
+
+- Choreography: trained students to perform **Ballroom dancing** for an Anniversary event in School of Biotechnology, International University – Vietnam
+
 - American society for nutrition: membership
+
 - American society for Microbiology: membership
 
 
