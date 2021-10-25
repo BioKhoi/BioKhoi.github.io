@@ -48,13 +48,16 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 #### Main Projects
  
 - Participate in  [FYBER project](https://clinicaltrials.gov/ct2/show/NCT02322112) & [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
-
+   - Processed, extraced and quantified bacterial DNA from fecal samples
+   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design
+   - Processed raw 16S rRNA (v5v6) sequencing data by ([QIIME](http://qiime.org/), [USEARCH](https://www.drive5.com/usearch/), [FASTX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/))
+   - Applied [Centered-log-ratio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695134/) to transform microbiome data to control for composionality.  
    - Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, performing advanced analyses, visualizing data, writing code for particular statistical tasks, gathering and depositing genomic data, identifying taxonomy and gene functions.
    - Contributed to grant application by preparing SOP, manuals of gut microbiome analysis from human sample collection to data analysis.
    - Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, conducting literature review and training a visiting scholar in a collaborative project.
       
 
-#### Voluntary Project 
+
  
 
 
