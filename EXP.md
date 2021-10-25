@@ -6,7 +6,7 @@
 Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soil** samples from more than **99 projects** 
 #### Selected projects:
 1. Study the effect of **Ivermectin on gut microbiota** using animal model - **_Peggy L Kandell, MD_, Washinton University in St Loouis.**
-   -  Leaded and performed microbiome data (16Sv4) analysis (community examination, identifying differential abundant taxa)
+   -  Leaded and performed microbiome data (16Sv4) analysis (community examination in [3D plot](http://www.sthda.com/english/wiki/impressive-package-for-3d-and-4d-graph-r-software-and-data-visualization) , identifying differential abundant taxa)
    -  Applied unsupervised clustering technique to distingush main traits by microbiome features
    -  Identified co-abundance group (CAG: [method](https://link.springer.com/article/10.1186/s40168-020-00887-w;)) of bacteria and assessed their inter and intra [association network](https://cytoscape.org/) to evaluate the impact of Ivermectin on bacterial ecology
 
@@ -49,9 +49,12 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
  
 - Participate in  [FYBER project](https://clinicaltrials.gov/ct2/show/NCT02322112) & [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
    - Processed, extraced and quantified bacterial DNA from fecal samples
-   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design
+
    - Processed raw 16S rRNA (v5v6) sequencing data by ([QIIME](http://qiime.org/), [USEARCH](https://www.drive5.com/usearch/), [FASTX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/))
    - Applied [Centered-log-ratio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695134/) to transform microbiome data to control for composionality.  
+   - Performed univariate and multivariate analyses for dietary, microbiome, SCFA data in controling for small sample size and longitudinal design ([GEE model](https://www.jstatsoft.org/article/view/v015i02); Mann-whitney, Wilcoxon sign ranked test, Friedman test, [Multile linear regression](https://www.investopedia.com/terms/m/mlr.asp), [AICc](https://www.rdocumentation.org/packages/AICcmodavg/versions/2.3-1/topics/AICc)for model selection)
+   - Assessed bacterial community by a wide range of Alpha Diverity (Shannon, Simpson, Obsersed species, Unifrac) 
+
    - Supported the multidisciplinary team in data analysis and bioinformatic by consulting, developing statistical analysis plans, performing advanced analyses, visualizing data, writing code for particular statistical tasks, gathering and depositing genomic data, identifying taxonomy and gene functions.
    - Contributed to grant application by preparing SOP, manuals of gut microbiome analysis from human sample collection to data analysis.
    - Assisted the PI by explaining the statistical approaches, providing slides for conference and meeting with companies, conducting literature review and training a visiting scholar in a collaborative project.
