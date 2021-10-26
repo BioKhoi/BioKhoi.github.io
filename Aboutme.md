@@ -39,7 +39,7 @@ It was a long journey with full of memories, we tried all kinds of possible mate
 <img src="images/clay_flower.png?raw=true"/>
 
 
-Until one day we mixed a kind of natural polymer clay with oil colour and it seems to be a perfect combination to mimic the actual texture as well as colour of a rose petal. I know we were on the right tracks. Then, we kept exploring, experimenting, taking classes, learning from our own mistakes. Several months later, we can be able to make a first clay flower. It was a Rose. 
+Until one day we mixed a kind of natural polymer clay with oil colour and it seems to be a perfect combination to mimic the actual texture as well as colour of a Moth orchid (Phalaenopsis) . I know we were on the right tracks. Then, we kept exploring, experimenting, taking classes, learning from our own mistakes. Several months later, we could be able to make a complete orchid clay flower.
 
 We had our name combined to make nguyenphuong logo and sold our products under that brand. However, We could not continue when I decide to go study abroad. 
 
