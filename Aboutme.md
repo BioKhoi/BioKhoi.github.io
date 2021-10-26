@@ -29,19 +29,19 @@ will be avaiable soon!
 
 will be avaiable soon!
 
-### 3. I can turn [clay into flowers](/pdf/Khoi_clay_flower.pdf)
+### 3. I can turn [clay into flowers](/pdf/Clay_album.pdf)
 
 
 
 From 2013 to 2015, I and my partner opened a small business in art & handmade sector. We both love flowers but they are too expensive and will not stay fresh long. Therefore, we decided to make a kind of flower that can stay for long and look like the real one. 
 It was a long journey with full of memories, we tried all kinds of possible materials such as paper, platic, or cloth and unfortunately none of them satisfied ourselves. 
 
-<img src="images/clay_flower.png?raw=true"/>
+[<img src="images/clay_flower.png?raw=true"/>](/pdf/Clay_album.pdf)
 
 
 Until one day we mixed a kind of natural polymer clay with oil colour and it seems to be a perfect combination to mimic the actual texture as well as colour of a Moth orchid (Phalaenopsis) . I know we were on the right tracks. Then, we kept exploring, experimenting, taking classes, learning from our own mistakes. Several months later, we could be able to make a complete orchid clay flower.
 
-We had our name combined to make nguyenphuong logo and sold our products under that brand. However, We could not continue when I decide to go study abroad. 
+We had our name combined to make nguyenphuong logo and sold our products under that brand. However, We had to close the shop when I had decided to go study abroad. 
 
 
 
