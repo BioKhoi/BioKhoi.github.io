@@ -11,7 +11,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
    -  Identified co-abundance group (CAG: [method](https://link.springer.com/article/10.1186/s40168-020-00887-w;)) of bacteria and assessed their inter and intra [association network](https://cytoscape.org/) to evaluate the impact of Ivermectin on bacterial ecology
 
 2. Comparing **biofilms**, which were obtained from **dental plaque**, grown on different materials - **_Thomas M. Johnson DMD, MS, COL, DC_, USARMY DENCOM ATLANTIC (USA) & _Joseph Retrum, DMD, MAJ, DC_, US Army Advanced Education in Periodontics, Tingay Dental Clinic**
-   - Processed raw amplicon sequecing data (16Sv3v4) to generate amplicon sequencing variant (ASV) table 
+   - Processed raw amplicon sequencing data (16Sv3v4) to generate amplicon sequencing variant (ASV) table 
    - Performed [Linear mixed model](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf) to evaluate richness and eveness of longitudinal data
    - Performed Adonis test and pairwise comparisons to assess beta-diversity of bacterial communities
    - Identified abundant taxa which are significantly different to test hypotheses using [DEseq2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8) method 
