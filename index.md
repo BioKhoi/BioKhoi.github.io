@@ -9,7 +9,7 @@
 [<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
 
 ---
-[Honour, Networks & Testimonies](/Honour_Network)
+[Honour & Networks](/Honour_Network)
 
 [<img src="images/net1.png?raw=true"/>](/Honour_Network)
 ---
