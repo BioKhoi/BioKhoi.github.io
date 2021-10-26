@@ -3,7 +3,7 @@
 ---
 #### Microbiome Data Scietist | Microbiome Insights Inc | Vancouver, BC, Canada |Feb 2020 - present
 
-Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soil** samples from more than **99 projects** 
+Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soil** samples from more than **100 projects** 
 #### Selected projects:
 1. Study the effect of **Ivermectin on gut microbiota** using animal model - **_Peggy L Kandell, MD_, Washington University in St Louis.**
    -  Leaded and performed microbiome data (16Sv4) analysis (community examination in [3D plot](http://www.sthda.com/english/wiki/impressive-package-for-3d-and-4d-graph-r-software-and-data-visualization), identifying differential abundant taxa)
