@@ -11,7 +11,7 @@
 ---
 [Honour & Networks](/Honour_Network)
 
-[<img src="images/net1.png?raw=true"/>](/Honour_Network)
+[<img src="images/AFC.png?raw=true"/>](/Honour_Network)
 ---
 
 [Skills(Wet & Dry Lab)](/Skills)
