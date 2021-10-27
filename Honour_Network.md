@@ -16,12 +16,13 @@
 - **_Best presentation award_**, ADI Research day, _Alberta Diabetes Institute_, 2017
 - **_Graduate studentship award_**, _Alberta Diabetes Institute_ & _Muttart Diabetes Research and Training Centre_ ($ 25,000),	2016
 
----
-
 - **_Runner-up_**, Graduate Paper Competition, _Asean Food Conference_, _Federation of Institutes of Food Science and Technology of ASEAN (FIFSTA)_, 2015
-- **_Travel funding_**, Global  start-up Youth ASEAN, _Startup Malaysia_ in partnership with _Microsoft_, 2015
+- **_Travel funding_**, Global  start-up Youth ASEAN, _Startup Malaysia_ in partnership with _Microsoft_,  2015
+- **_Special Award_**, In recognition of Excellent Scientific Publications, _International University - HCM - Vietnam National University_,  2015
+
                      
-## Networks & Testimonies
+                     
+## Networks
 
 
 
