@@ -19,7 +19,24 @@
 - **_Travel funding_**, Global  start-up Youth ASEAN, _Startup Malaysia_ in partnership with _Microsoft_,  2015
 - **_Special Award_**, In recognition of Excellent Scientific Publications, _International University - HCM - Vietnam National University_,  2015
 
-                     
+---
+    
+<p align="center">
+<img src="images/best_award.png?raw=true"/>
+</p>   
+    
+<p align="center">
+<img src="images/special_award.png?raw=true"/>
+</p> 
+
+<p align="center">
+<img src="images/ASEAN.png?raw=true"/>
+</p> 
+
+<p align="center">
+<img src="images/runner.png?raw=true"/>
+</p> 
+
                      
 ## Networks
 
