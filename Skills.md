@@ -13,15 +13,15 @@
  
  ---
  
- [<img src="images/4hinh.png?raw=true"/>](/Skills)
+ <img src="images/4hinh.png?raw=true"/>
  
- [<img src="images/Net4.png?raw=true"/>](/Skills)
+ <img src="images/Net4.png?raw=true"/>
  
- [<img src="images/PCOA.png?raw=true"/>](/Skills)
+ <img src="images/PCOA.png?raw=true"/>
  
- [<img src="images/Dry1.png?raw=true"/>](/Skills)
+ <img src="images/Dry1.png?raw=true"/>
  
- [<img src="images/map1.png?raw=true"/>](/Skills)
+ <img src="images/map1.png?raw=true"/>
  
 ### WET LAB
   
@@ -36,9 +36,9 @@
 
 ---
  
- [<img src="images/wet1.png?raw=true"/>](/Skills)
+ <img src="images/wet1.png?raw=true"/>
  
- [<img src="images/wet2.png?raw=true"/>](/Skills)
+ <img src="images/wet2.png?raw=true"/>
 
 ### OTHER SKILLS
 
