@@ -7,7 +7,7 @@
 
  - **Applying programming languages** (R, Rmarkdown, Unix shell, html, SQL, basic Cloud storage) 
  - **Employing bioinformatic tools** to process 16S rRNA raw sequencing data (Mothur, Usearch, QIIME)
- - **Analysing biostatistic data** (cleaning data, exploratory data analysis, univariate/multivariate analyses, linear & non-linear regressions)
+ - **Analysing biostatistics data** (cleaning data, exploratory data analysis, univariate/multivariate analyses, linear & non-linear regressions)
  - **Performing machine learning** (random forest, ROC, cluster analysis, feature selections, network analysis)
  - **Visualizing data** (presenting complex data: longitudinal data, multi-dimension data, making infographic to achieve the best story-telling effect) 
  
