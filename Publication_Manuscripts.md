@@ -34,15 +34,15 @@ M Riddle, **NK Nguyen**, C Tabin
 
 ## 3.Bacterial Symbiosis - Fermented Food
 -    [Screening the optimal ratio of symbiosis between isolated yeast and acetic acid bacteria strain from traditional kombucha for high-level production of glucuronic acid](https://www.sciencedirect.com/science/article/abs/pii/S0023643815300323) - <br> _**LWT - Food Science and Technology, 2015 (IF: 4.95)**_ <br>
-**NK Nguyen :envelope: **, PB Nguyen, HT Nguyen, PH Le
+**NK Nguyen** :envelope:, PB Nguyen, HT Nguyen, PH Le
 <br /> <br />
 
 -   [Lactic acid bacteria: promising supplements for enhancing the biological activities of kombucha](https://link.springer.com/article/10.1186/s40064-015-0872-3) - <br> _**SpringerPlus, 2015 (IF 2018: 1.85)**_ <br>
-**NK Nguyen :envelope: **, NTN Dong, HT Nguyen, PH Le
+**NK Nguyen** :envelope:, NTN Dong, HT Nguyen, PH Le
 <br /> <br />
 
 -   [Effects of Lactobacillus casei and Alterations in Fermentation Conditions on Biosynthesis of Glucuronic Acid by a Dekkera bruxellensis-Gluconacetobacter intermedius Kombucha Symbiosis Model System](https://www.tandfonline.com/doi/abs/10.1080/08905436.2015.1092446) - <br> _**Food Biotechnology, 2015 (IF: 1.5)**_ <br>
-**NK Nguyen :envelope: **, NTN Dong, HT Nguyen, PH Le
+**NK Nguyen** :envelope:, NTN Dong, HT Nguyen, PH Le
 
 **# authors contributed equally to the work**
 
