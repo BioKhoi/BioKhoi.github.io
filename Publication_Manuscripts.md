@@ -1,11 +1,11 @@
-## Publication and Manuscripts (total 12) in THREE research areas 
+## Publications and Manuscripts (total 12) in THREE research areas 
 
 ## 1.Dietary Interventions - Human gut microbiome
 
 -    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) - _**Microbiome, 2020 ( IF: 14.6 )**_ <br>
 **NK Nguyen #**, EC Deehan #, [...] D Knights, JA Bakal, CM Prado, J Walter.
 <br /> <br /> 
--    [Precision microbiome modulation with discrete diatary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  _**Cell Host & Microbe, 2020 ( IF: 21 )**_ <br>
+-    [Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  _**Cell Host & Microbe, 2020 ( IF: 21 )**_ <br>
 EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 <br /> <br /> 
 -   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io/Publication_Manuscripts) -  _**Manuscript was submitted to Cell.**_ <br> 
@@ -50,7 +50,7 @@ M Riddle, **NK Nguyen**, C Tabin
 
 Conferences | Session | Talks | Dates
 ----------- | ------- | ----- | ---------
-NUTRITION 2021 LIVE ONLINE - American Society for Nutrition | Emerging Science - Hightlights from Rapid Science Submissions | "Elucidating the Role of the Gut Microbiota in the Physiological Effects of Dietary Fiber" | JUNE, 2021
+NUTRITION 2021 LIVE ONLINE - American Society for Nutrition | Emerging Science - Highlights from Rapid Science Submissions | "Elucidating the Role of the Gut Microbiota in the Physiological Effects of Dietary Fiber" | JUNE, 2021
 ADI Research Day - Alberta Diabetes Institute & University of Alberta | Full talk - Clinical & Population Health Research | "Exploring the modulation of human gut microbiota composition and metabolic function by dietary Arabinoxylan supplementation" | OCTOBER, 2017
 Asean Food Conference - Federation of Institutes of Food Science and Technology of ASEAN (FIFSTA) | Graduate Paper Competition | "Optimization of microbial symbiosis for high-level glucuronic acid production in Kombucha" | JUNE, 2015
 
