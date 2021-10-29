@@ -21,7 +21,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
       - Performed literature search to avoid false positive results
       - Interpreted the results and explained the analysis and discussed the future direction with the client
 4. Study the effect of wearing a **N95 mask** on **skin microbiome** - **_Grey Hillerband, PhD_, Ammway**
-   - Processed raw amplicon sequecing data (16Sv1v3) to generate OTU table 
+   - Processed raw amplicon sequencing data (16Sv1v3) to generate OTU table 
    - Examined longitudinal data of skin microbiome and performed univariate & multivariate analysis
    - Visualised and interpret the results
 5. Study the effect of aggregate mining disturbance on **soil microbiome** - **_Akshit Puri, PhD_, University College Dublin**
@@ -47,7 +47,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 
 #### Main Projects
  
-- Participate in  [FYBER project](https://clinicaltrials.gov/ct2/show/NCT02322112) & [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
+- Participated in  [FYBER project](https://clinicaltrials.gov/ct2/show/NCT02322112) & [RESISTANT STARCH TYPE-4 project](https://clinicaltrials.gov/ct2/show/NCT03255603)
    - Processed, extracted and quantified bacterial DNA from fecal samples
 
    - Processed raw 16S rRNA (v5v6) sequencing data by ([QIIME](http://qiime.org/), [USEARCH](https://www.drive5.com/usearch/), [FASTX-Toolkit](http://hannonlab.cshl.edu/fastx_toolkit/))
