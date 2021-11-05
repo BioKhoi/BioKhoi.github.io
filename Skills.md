@@ -36,8 +36,10 @@
 
 ---
  
- <img src="images/wet1.png?raw=true"/>
+ <img src="images/wet1.1.png?raw=true"/>
  
+ <img src="images/wet1.2.png?raw=true"/>
+  
  <img src="images/wet2.png?raw=true"/>
 
 ### OTHER SKILLS
