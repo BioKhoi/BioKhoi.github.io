@@ -37,14 +37,6 @@
 <img src="images/runner.png?raw=true"/>
 </p> 
 
-                     
-## Networks
-
-
-
-<p align="center">
-<img src="images/Thomas1.png?raw=true"/>
-</p> 
-
+                    
 
 ## [BACK](https://biokhoi.github.io/)
