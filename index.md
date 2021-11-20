@@ -9,7 +9,7 @@
 [<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
 
 ---
-[Honour & Networks](/Honour_Network)
+[Honour](/Honour_Network)
 
 [<img src="images/young_old.png?raw=true"/>](/Honour_Network)
 ---
@@ -22,6 +22,11 @@
 [Experience, Projects & Services](/EXP)
 
 [<img src="images/EXP.png?raw=true"/>](/EXP)
+
+---
+[Network](/network)
+
+[<img src="images/net1.png?raw=true"/>](/network)
 
 ---
 [About me](/Aboutme)
