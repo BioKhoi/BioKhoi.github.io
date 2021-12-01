@@ -34,9 +34,11 @@
 [<img src="images/dance1.png?raw=true"/>](/Aboutme)
 ---
 
-[Visit my Linkedin](https://www.linkedin.com/in/koi-bio-data/)
+
+## Visit my public profiles
 
 [<img src="images/link2.png?raw=true"/>](https://www.linkedin.com/in/koi-bio-data/)
+[<img src="images/Google.png?raw=true"/>](https://scholar.google.ca/citations?user=7Xrudt0AAAAJ&hl=en)
 
 [Visit my Google Scholar](https://scholar.google.ca/citations?user=7Xrudt0AAAAJ&hl=en)
 
