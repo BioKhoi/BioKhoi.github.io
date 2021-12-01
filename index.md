@@ -36,6 +36,7 @@
 
 [Visit my Linkedin](https://www.linkedin.com/in/koi-bio-data/)
 
+[<img src="images/link.png?raw=true"/>](https://www.linkedin.com/in/koi-bio-data/)
 
 [Visit my Google Scholar](https://scholar.google.ca/citations?user=7Xrudt0AAAAJ&hl=en)
 
