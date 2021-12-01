@@ -15,7 +15,7 @@ Augusta, Georgia - **USA** | [Prof. Thomas M Johnson](https://scholar.google.com
 # Testimonies 
 
 <p align="center">
-<img src="images/Thomas1.png?raw=true"/>
+<img src="images/Thomas2.png?raw=true"/>
 </p> 
 
 
