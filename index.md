@@ -34,12 +34,11 @@
 [<img src="images/dance1.png?raw=true"/>](/Aboutme)
 ---
 
-
+---
 ## Visit my public profiles
 
 [<img src="images/Google.png?raw=true"/>](https://scholar.google.ca/citations?user=7Xrudt0AAAAJ&hl=en)
 [<img src="images/link2.png?raw=true"/>](https://www.linkedin.com/in/koi-bio-data/)
-
 [<img src="images/pub.png?raw=true"/>](https://publons.com/researcher/862046/khoi-nguyen-nguyen/)
 [<img src="images/ORCID.png?raw=true"/>](https://orcid.org/0000-0001-8919-3977)
 
