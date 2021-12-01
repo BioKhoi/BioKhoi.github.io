@@ -34,10 +34,12 @@
 [<img src="images/dance1.png?raw=true"/>](/Aboutme)
 ---
 
+[Visit my Linkedin](https://www.linkedin.com/in/koi-bio-data/)
 
 
+[Visit my Google Scholar](https://scholar.google.ca/citations?user=7Xrudt0AAAAJ&hl=en)
 
-
+  
 
 
 
