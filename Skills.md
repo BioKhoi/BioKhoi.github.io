@@ -3,7 +3,7 @@
 ## SKills
 ### DRY LAB
 
- - **Applying programming languages** (R, Rmarkdown, Unix shell, html, SQL, basic Cloud storage) 
+ - **Programming languages** (R, Rmarkdown, Unix shell, html, SQL, basic Cloud storage) 
  - **Analyzing Microbiome**
      - Employing bioinformatic tools to process 16S rRNA, ITS2 raw sequencing data (Mothur, Qiime2, Qiime,  Usearch)
      - Analyzing Communities  (Diversity, PCoA, NMDS, CCA, Procrustes)
