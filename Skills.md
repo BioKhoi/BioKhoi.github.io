@@ -3,14 +3,12 @@
 ## SKills
 ### DRY LAB
 
-
-
  - **Applying programming languages** (R, Rmarkdown, Unix shell, html, SQL, basic Cloud storage) 
- - **Employing bioinformatic tools** to process 16S rRNA raw sequencing data (Mothur, Qiime2, Qiime,  Usearch)
- - **Microbiome analysis**
-     - Community analysis  (Diversity, PCoA, NMDS, CCA, Procrustes)
-     - Taxonomic analysis  (Phylogentic tree, RESCRIPt) 
-     - Functional analysis (Metabolomic analysis, PICRUSt)
+ - **Analyzing Microbiome**
+     - Employing bioinformatic tools to process 16S rRNA, ITS2 raw sequencing data (Mothur, Qiime2, Qiime,  Usearch)
+     - Analyzing Communities  (Diversity, PCoA, NMDS, CCA, Procrustes)
+     - Analyzing Taxonomy  (Phylogentic tree, RESCRIPt) 
+     - Analyzing Function (Metabolomic analysis, PICRUSt)
  - **Analysing biostatistics data** (cleaning data, exploratory data analysis, univariate/multivariate analyses, linear & non-linear regressions)
  - **Performing machine learning**  (random forest, ROC, cluster analysis, feature selections, network analysis)
  - **Visualizing data** (presenting complex data: longitudinal data, multi-dimension data, making infographic to achieve the best story-telling effect) 
