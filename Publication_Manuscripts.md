@@ -8,7 +8,7 @@
 -    [Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  _**Cell Host & Microbe, 2020 ( IF: 21 )**_ <br>
 EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 <br /> <br /> 
--   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io/Publication_Manuscripts) -  _**Manuscript was submitted to Cell.**_ <br> 
+-   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io/Publication_Manuscripts) -  _**Manuscript is in preparation.**_ <br> 
 B Seethaler 👤, **NK Nguyen** 👤, [...], J Walter, NM Delzenne, SC Bischoff.
 <br /> <br />
 -   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://biokhoi.github.io/Publication_Manuscripts) - _**Manuscript was submitted to Microbiome.**_ <br> 
@@ -22,7 +22,7 @@ EC Deehan, Z Zhang, **NK Nguyen**, [...], J Walter.
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) - _**Journal of Investigative Dermatology, 2021 ( IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
--    [Influence of aggregate mining disturbance on soil health and bacterial microbiome of pioneering pines](https://biokhoi.github.io/Publication_Manuscripts) - <br> _**Manuscript was subbmitted to Soil Biology and Biochemistry.**_ <br>
+-    [Influence of aggregate mining disturbance on soil health and bacterial microbiome of pioneering pines](https://biokhoi.github.io/Publication_Manuscripts) - <br> _**Manuscript is in preparation.**_ <br>
 KP Padda, A Puri, **NK Nguyen**, TJ Phipott, CP Chanway
 <br /> <br />
 -    [Evolution of the gut microbiome in river and cave-adapted *Astyanax mexicanus*](https://biokhoi.github.io/Publication_Manuscripts) <br>  _**Manuscript is in preparation.**_ <br>
