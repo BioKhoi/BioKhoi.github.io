@@ -1,4 +1,4 @@
-## Publications and Manuscripts (total 12) in THREE research areas 
+## Publications and Manuscripts in THREE research areas 
 
 ## 1.Dietary Interventions - Human gut microbiome
 
@@ -11,7 +11,7 @@ EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 -   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io/Publication_Manuscripts) -  _**Manuscript is in preparation.**_ <br> 
 B Seethaler 👤, **NK Nguyen** 👤, [...], J Walter, NM Delzenne, SC Bischoff.
 <br /> <br />
--   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://biokhoi.github.io/Publication_Manuscripts) - _**Manuscript was submitted to Microbiome.**_ <br> 
+-   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://biokhoi.github.io/Publication_Manuscripts) - _**Accepted to be published in Microbiome.**_ <br> 
 EC Deehan; Z Zhang; A Riva; AM Armet; ME Perez-Muñoz; **NK. Nguyen**; [...] D Knights; CJ Field; D Berry; CM Prado; J Walter.
 <br /> <br />
 -   [Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of *Bifidobacterium longum* within the gut microbiota](https://biokhoi.github.io/Publication_Manuscripts) - _**Manuscript is in preparation.**_ <br> 
@@ -22,7 +22,7 @@ EC Deehan, Z Zhang, **NK Nguyen**, [...], J Walter.
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) - _**Journal of Investigative Dermatology, 2021 ( IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
--    [Influence of aggregate mining disturbance on soil health and bacterial microbiome of pioneering pines](https://biokhoi.github.io/Publication_Manuscripts) - <br> _**Manuscript is in preparation.**_ <br>
+-    [Influence of aggregate mining disturbance on soil health and bacterial microbiome of pioneering pines](https://biokhoi.github.io/Publication_Manuscripts) - <br> _**Accepted to be published in Plant and Soil (IF: 4.7)**_ <br>
 KP Padda, A Puri, **NK Nguyen**, TJ Phipott, CP Chanway
 <br /> <br />
 -    [Evolution of the gut microbiome in river and cave-adapted *Astyanax mexicanus*](https://biokhoi.github.io/Publication_Manuscripts) <br>  _**Manuscript is in preparation.**_ <br>
