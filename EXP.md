@@ -75,8 +75,8 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 ---
 ## SERVICES
 ---
-- Peer Review ([Publon](https://publons.com/researcher/862046/khoi-nguyen-nguyen/)):
--     **Clinical and Translational Medicine (IF 11.4) 
+- Peer Review
+-     **Clinical and Translational Medicine (IF 11.4)** 
 -     **Food science and technology international (IF 2)**
 -     **International journal of food science & technology (IF 3.7)**
 
