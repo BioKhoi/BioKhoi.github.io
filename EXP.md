@@ -72,10 +72,6 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
    -  Expanded and built network to seek for help/support to solve difficulties. 
 
 
-## INDUSTRY EXPERIENCE
-
-will be available soon!
-
 ---
 ## SERVICES
 ---
