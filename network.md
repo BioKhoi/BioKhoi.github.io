@@ -10,7 +10,6 @@ Department of Nutritional Medicine & Prevention - University of Hohenheim - **Ge
 Department of Microbilogy and Immunology - University of British Columbia - **Canada** | [Prof. William W Mohn](https://scholar.google.ca/citations?hl=en&user=blL2xr4AAAAJ)|
 Department of Biological Sciences - Seton Hall University - **USA** | [Prof. Sulie L. Change](https://www.shu.edu/profiles/suliechang.cfm) - Director of Institute of Neuroimmune Pharmacology |
 Division of Allergy & Immunology - Washington University in St. Louis - **USA** | [Professor Peggy L. Kendall, MD](http://dbbs.wustl.edu/faculty/Pages/faculty_bio.aspx?SID=6857) - Pathology and Immunology|
-Augusta, Georgia - **USA** | [Prof. Thomas M Johnson](https://scholar.google.com/citations?user=4PfNmlgAAAAJ&hl=en) - Professor of Periodontics |
 
 # Testimonies 
 
