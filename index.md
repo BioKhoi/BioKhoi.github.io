@@ -14,7 +14,7 @@
 [<img src="images/young_old.png?raw=true"/>](/Honour_Network)
 ---
 
-[Skills(Wet & Dry Lab)](/Skills)
+[Skills (Wet & Dry Lab)](/Skills)
 
 [<img src="images/1Skills.png?raw=true"/>](/Skills)
 
