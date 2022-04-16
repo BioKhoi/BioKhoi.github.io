@@ -1,4 +1,4 @@
-## ACADEMIC RESEARCH EXPERIENCE
+## EXPERIENCE
 
 ---
 #### Microbiome Data Scientist | Microbiome Insights Inc | Vancouver, BC, Canada |Feb 2020 - present
@@ -75,7 +75,10 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 ---
 ## SERVICES
 ---
-- Peer Review ([ORCID](https://orcid.org/0000-0001-8919-3977)): **Food science and technology international; International journal of food science & technology**
+- Peer Review ([Publon](https://publons.com/researcher/862046/khoi-nguyen-nguyen/)):
+-     **Clinical and Translational Medicine (IF 11.4) 
+-     **Food science and technology international (IF 2)**
+-     **International journal of food science & technology (IF 3.7)**
 
 - Tax preparer: **Canada Revenue Agency** (Community volunteer income tax program-Vancouver) 2021
 
