@@ -7,8 +7,8 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 #### Selected projects:
 1. Study the effect of **Ivermectin on gut microbiota** using animal model - **_Peggy L Kandell, MD_, Washington University in St Louis.**
    -  Leaded and performed microbiome data (16Sv4) analysis (community examination in [3D plot](http://www.sthda.com/english/wiki/impressive-package-for-3d-and-4d-graph-r-software-and-data-visualization), identifying differential abundant taxa)
-   -  Applied unsupervised clustering technique to distinguish main traits by microbiome features
-   -  Identified co-abundance group (CAG: [method](https://link.springer.com/article/10.1186/s40168-020-00887-w;)) of bacteria and assessed their inter and intra [association network](https://cytoscape.org/) to evaluate the impact of Ivermectin on bacterial ecology
+   -  Applied unsupervised clustering technique to distinguish main traits by microbiome features.
+   -  Identified co-abundance group (CAG: [method](https://link.springer.com/article/10.1186/s40168-020-00887-w;)) of bacteria and assessed their inter and intra [association network](https://cytoscape.org/) to evaluate the impact of Ivermectin on bacterial ecology.
 
 2. Comparing **biofilms**, which were obtained from **dental plaque**, grown on different materials - **_Thomas M. Johnson DMD, MS, COL, DC_, USARMY DENCOM ATLANTIC (USA) & _Joseph Retrum, DMD, MAJ, DC_, US Army Advanced Education in Periodontics, Tingay Dental Clinic**
    - Processed raw amplicon sequencing data (16Sv3v4) to generate amplicon sequencing variant (ASV) table 
