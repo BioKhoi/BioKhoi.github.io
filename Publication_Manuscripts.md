@@ -11,7 +11,7 @@ EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 -   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io/Publication_Manuscripts) -  _**Manuscript is in preparation.**_ <br> 
 B Seethaler 👤, **NK Nguyen** 👤, [...], J Walter, NM Delzenne, SC Bischoff.
 <br /> <br />
--   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://biokhoi.github.io/Publication_Manuscripts) - _**Accepted to be published in Microbiome.**_ <br> 
+-   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01248-5) - _**Microbiome, 2022 (IF 14.6).**_ <br> 
 EC Deehan; Z Zhang; A Riva; AM Armet; ME Perez-Muñoz; **NK. Nguyen**; [...] D Knights; CJ Field; D Berry; CM Prado; J Walter.
 <br /> <br />
 -   [Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of *Bifidobacterium longum* within the gut microbiota](https://biokhoi.github.io/Publication_Manuscripts) - _**Manuscript is in preparation.**_ <br> 
