@@ -4,9 +4,14 @@
 
 ---
 
-[Publications, Manuscripts & Presentations](/Publication_Manuscripts)
+[Publications & Manuscripts](/Publication_Manuscripts)
 
 [<img src="images/journals.png?raw=true"/>](/Publication_Manuscripts)
+
+---
+
+[Presentations / Full talks](/Talk)
+
 
 ---
 [Honour](/Honour_Network)
