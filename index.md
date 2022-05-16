@@ -12,7 +12,7 @@
 
 [Presentations / Full talks](/Talk)
 
-[<img src="images/gutTalk.png?raw=true"/>](/Talk)
+[<img src="images/gutTalk1.png?raw=true"/>](/Talk)
 ---
 [Honour](/Honour_Network)
 
