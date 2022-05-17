@@ -10,7 +10,7 @@
 
 ---
 
-[Presentations / Full talks](/Talk)
+[Presentations & Peer Review](/Talk)
 
 [<img src="images/gutTalk3.png?raw=true"/>](/Talk)
 
