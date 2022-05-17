@@ -75,15 +75,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 ---
 ## SERVICES
 ---
-
-
 - Tax preparer: **Canada Revenue Agency** (Community volunteer income tax program-Vancouver) 2021
-
-- Choreography: trained students to perform **Ballroom dancing** for an Anniversary event in School of Biotechnology, International University – Vietnam
-
-- American society for nutrition: membership
-
-- American society for Microbiology: membership
 
 
 
