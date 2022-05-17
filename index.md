@@ -12,7 +12,8 @@
 
 [Presentations / Full talks](/Talk)
 
-[<img src="images/gutTalk2.png?raw=true"/>](/Talk)
+[<img src="images/gutTalk3.png?raw=true"/>](/Talk)
+
 ---
 [Honour](/Honour_Network)
 
