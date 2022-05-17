@@ -9,7 +9,10 @@ ADI Research Day - Alberta Diabetes Institute & University of Alberta | Full tal
 Asean Food Conference - Federation of Institutes of Food Science and Technology of ASEAN (FIFSTA) | Graduate Paper Competition | "Optimization of microbial symbiosis for high-level glucuronic acid production in Kombucha" | JUNE, 2015
 
 
-
+## Peer Review
+-     **Clinical and Translational Medicine (IF 11.4)** 
+-     **International journal of food science & technology (IF 3.7)**
+-     **Food science and technology international (IF 2)**
 
 
 ## [BACK](https://biokhoi.github.io/)
