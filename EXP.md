@@ -75,10 +75,7 @@ Analysed microbiome data obtained from **fecal, skin, oral, saliva, insect & soi
 ---
 ## SERVICES
 ---
-- Peer Review
--     **Clinical and Translational Medicine (IF 11.4)** 
--     **International journal of food science & technology (IF 3.7)**
--     **Food science and technology international (IF 2)**
+
 
 - Tax preparer: **Canada Revenue Agency** (Community volunteer income tax program-Vancouver) 2021
 
