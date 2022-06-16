@@ -25,7 +25,7 @@
  
  <img src="images/map1.png?raw=true"/>
  
- <img src="images/phylo13.png?raw=true"/>
+ <img src="images/phylo14.png?raw=true"/>
  
 ### WET LAB
   
