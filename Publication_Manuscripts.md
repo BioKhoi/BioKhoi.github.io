@@ -55,9 +55,9 @@ CS Westlake, **NK Nguyen**, KL Gross, AW Brooks, PL Kendall
 **NK Nguyen** ✉️ , NTN Dong, HT Nguyen, PH Le
 <br>
 
-👤 <span style="color:green;"> **Authors contributed equally to the work** </span>
+👤 <span style="color:green;font-weight:bold"> Authors contributed equally to the work </span>
 
-✉️ <span style="color:green;"> **Corresponding author** </span>
+✉️ <span style="color:green;font-weight:bold"> Corresponding author </span>
 
 <br /> <br />
 
