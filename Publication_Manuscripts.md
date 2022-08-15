@@ -1,6 +1,6 @@
 ## Publications and Manuscripts in THREE research areas 
 
-## 1.Dietary Interventions - Human gut microbiome
+## ![#1589F0] 1.Dietary Interventions - Human gut microbiome `#1589F0`
 
 -    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) <br> _**Microbiome, 2020 (IF: 16.8 )**_ <br> **NK Nguyen** 👤, EC Deehan 👤, [...] D Knights, JA Bakal, CM Prado, J Walter.
 <br /> <br /> 
