@@ -1,6 +1,6 @@
 ## Publications and Manuscripts in THREE research areas 
 
-## <span style="color:orange;"> 1.Dietary Interventions - Human gut microbiome </span>
+## <span style="color:green;"> 1.Dietary Interventions - Human gut microbiome </span>
 
 -    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) <br> _**Microbiome, 2020 (IF: 16.8 )**_ <br> **NK Nguyen** 👤, EC Deehan 👤, [...] D Knights, JA Bakal, CM Prado, J Walter.
 <br /> <br /> 
@@ -23,7 +23,7 @@ SC Bischoff, **NK Nguyen**, B Seethaler, J Beisner, P Kügler, T Stefan
 EC Deehan, Z Zhang, **NK Nguyen**, [...], J Walter.
 <br /> <br />
 
-## 2.Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
+## <span style="color:lime;"> 2.Human skin, Soil, and Animal Microbiome - Microbial Ecology </span>
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) <br> _**Journal of Investigative Dermatology, 2021 (IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
@@ -42,7 +42,7 @@ M Riddle, **NK Nguyen**, C Tabin
 <br /> <br />
 
 
-## 3.Bacterial Symbiosis - Food Microbiology
+## <span style="color:Aqua;"> 3.Bacterial Symbiosis - Food Microbiology </span>
 -    [Screening the optimal ratio of symbiosis between isolated yeast and acetic acid bacteria strain from traditional kombucha for high-level production of glucuronic acid](https://www.sciencedirect.com/science/article/abs/pii/S0023643815300323) - <br> _**LWT - Food Science and Technology, 2015 (IF: 6.056)**_ <br>
 **NK Nguyen** ✉️ , PB Nguyen, HT Nguyen, PH Le
 <br /> <br />
