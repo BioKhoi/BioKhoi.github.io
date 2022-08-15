@@ -1,6 +1,6 @@
 ## Publications and Manuscripts in THREE research areas 
 
-## <span style="color:green;"> 1.Dietary Interventions - Human gut microbiome </span>
+## <span style="color:green;"> 1. Dietary Interventions - Human gut microbiome </span>
 
 -    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) <br> _**Microbiome, 2020 (IF: 16.8 )**_ <br> **NK Nguyen** 👤, EC Deehan 👤, [...] D Knights, JA Bakal, CM Prado, J Walter.
 <br />
@@ -23,7 +23,7 @@ SC Bischoff, **NK Nguyen**, B Seethaler, J Beisner, P Kügler, T Stefan
 EC Deehan, Z Zhang, **NK Nguyen**, [...], J Walter.
 <br /> <br />
 
-## <span style="color:green;"> 2.Human skin, Soil, and Animal Microbiome - Microbial Ecology </span>
+## <span style="color:green;"> 2. Human skin, Soil, and Animal Microbiome - Microbial Ecology </span>
 -   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) <br> _**Journal of Investigative Dermatology, 2021 (IF : 8.55)**_ <br> 
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> 
@@ -32,20 +32,17 @@ G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 KP Padda, A Puri, **NK Nguyen**, TJ Phipott, CP Chanway
 <br /> 
 
-
 -    [Evolution of the gut microbiome in river and cave-adapted *Astyanax mexicanus*](https://biokhoi.github.io/Publication_Manuscripts) <br>  _**Manuscript is in preparation.**_ <br>
 M Riddle, **NK Nguyen**, C Tabin
 <br /> 
 
-
 -    [Ivermectin Disrupts Gut bacterial communities in mice- Microbiome](https://biokhoi.github.io/Publication_Manuscripts)
 <br>  _**Manuscript is in preparation.**_ <br> 
 CS Westlake, **NK Nguyen**, KL Gross, AW Brooks, PL Kendall
-
 <br /> <br />
 
 
-## <span style="color:green;"> 3.Bacterial Symbiosis - Food Microbiology </span>
+## <span style="color:green;"> 3. Bacterial Symbiosis - Food Microbiology </span>
 -    [Screening the optimal ratio of symbiosis between isolated yeast and acetic acid bacteria strain from traditional kombucha for high-level production of glucuronic acid](https://www.sciencedirect.com/science/article/abs/pii/S0023643815300323) <br> _**LWT - Food Science and Technology, 2015 (IF: 6.056)**_ <br>
 **NK Nguyen** ✉️ , PB Nguyen, HT Nguyen, PH Le
 <br />
@@ -56,10 +53,11 @@ CS Westlake, **NK Nguyen**, KL Gross, AW Brooks, PL Kendall
 
 -   [Effects of Lactobacillus casei and Alterations in Fermentation Conditions on Biosynthesis of Glucuronic Acid by a Dekkera bruxellensis-Gluconacetobacter intermedius Kombucha Symbiosis Model System](https://www.tandfonline.com/doi/abs/10.1080/08905436.2015.1092446) <br> _**Food Biotechnology, 2015 (IF: 1.5)**_ <br>
 **NK Nguyen** ✉️ , NTN Dong, HT Nguyen, PH Le
+<br>
 
-👤 <span style="color:green;">**Authors contributed equally to the work** </span>
+👤 <span style="color:green;"> **Authors contributed equally to the work ** </span>
 
-✉️ <span style="color:green;">**Corresponding author** </span>
+✉️ <span style="color:green;"> ** Corresponding author ** </span>
 
 <br /> <br />
 
