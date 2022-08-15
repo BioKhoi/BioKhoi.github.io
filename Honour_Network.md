@@ -9,8 +9,8 @@
 
 
 ---
-- **_Doctoral Scholarship_**, _Universite Catholique De Louvain_ , 2022-2026 (full)
-- **_Graduate Fellowship_**, _University of Alberta_ , 2016-2019 (full)
+- **_Doctoral Scholarship_**, _Universite Catholique De Louvain_ , 2022-2026 (fullly funded)
+- **_Graduate Fellowship_**, _University of Alberta_ , 2016-2019 (fullly funded)
 - **_Travel funding_**, trained in Dan Knight's lab (University of Minnesota), funded by _Canadian Institutes of Health Research_, 2018
 - **_Travel funding_**, workshop: "Statistical Challenges and Opportunities for the Analysis of Microbiome data", _University of Manitoba & Canadian Statistical Sciences Institute_, 2017
 - **_Best presentation award_**, ADI Research day, _Alberta Diabetes Institute_, 2017
