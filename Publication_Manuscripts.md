@@ -54,9 +54,9 @@ M Riddle, **NK Nguyen**, C Tabin
 -   [Effects of Lactobacillus casei and Alterations in Fermentation Conditions on Biosynthesis of Glucuronic Acid by a Dekkera bruxellensis-Gluconacetobacter intermedius Kombucha Symbiosis Model System](https://www.tandfonline.com/doi/abs/10.1080/08905436.2015.1092446) - <br> _**Food Biotechnology, 2015 (IF: 1.5)**_ <br>
 **NK Nguyen** ✉️ , NTN Dong, HT Nguyen, PH Le
 
-👤 **Authors contributed equally to the work**
+👤 <span style="color:green;"> **Authors contributed equally to the work** </span>
 
-✉️ **Corresponding author**
+✉️ <span style="color:green;"> **Corresponding author** </span>
 <br /> <br />
 
 
