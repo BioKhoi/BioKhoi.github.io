@@ -13,6 +13,7 @@
 
 ## My hometown
 Bienhoa - Dongnai - Vietnam
+<br />
 Vancouver - British Columbia - Canada
 
 ## My Non-Academic Background
