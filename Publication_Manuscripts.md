@@ -6,7 +6,7 @@
 <br />
 
 **<span style="color:red;"> Best of Cell Host & Microbe 2020  </span>**
--    [Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  _**Cell Host & Microbe, 2020 (IF: 31.3 )**_ <br> EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
+-    [Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) <br>  _**Cell Host & Microbe, 2020 (IF: 31.3 )**_ <br> EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 <br />
 
 **<span style="color:red;"> Editor's Choice </span>**
