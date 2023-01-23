@@ -8,7 +8,7 @@
 -    [Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  _**Cell Host & Microbe, 2020 (IF: 31.3 )**_ <br> EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 <br />
 
--   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity - data from the randomized controlled LIBRE trial](https://academic.oup.com/ajcn/article/116/4/928/6687830)  <span style="color:pink;"> Editor's Choice </span> <br>  _**The American Journal of Clinical Nutrition, 2022 (IF 8.4).**_ <br> B Seethaler 👤, **NK Nguyen** 👤, [...], J Walter, NM Delzenne, SC Bischoff.  
+-   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity - data from the randomized controlled LIBRE trial](https://academic.oup.com/ajcn/article/116/4/928/6687830)  <span style="color:red;"> **Editor's Choice** </span> <br>  _**The American Journal of Clinical Nutrition, 2022 (IF 8.4).**_ <br> B Seethaler 👤, **NK Nguyen** 👤, [...], J Walter, NM Delzenne, SC Bischoff.  
 <br /> 
 
 -   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01248-5) <br>  _**Microbiome, 2022 (IF 16.8).**_ <br> 
