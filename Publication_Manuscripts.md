@@ -4,6 +4,7 @@
 
 -    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) <br> _**Microbiome, 2020 (IF: 16.8 )**_ <br> **NK Nguyen** 👤, EC Deehan 👤, [...] D Knights, JA Bakal, CM Prado, J Walter.
 <br />
+
 **<span style="color:red;"> Best of Cell Host & Microbe 2020  </span>**
 -    [Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  _**Cell Host & Microbe, 2020 (IF: 31.3 )**_ <br> EC Deehan, C Yang, ME Perez-Muñoz, **NK Nguyen**, [...] J Walter.
 <br />
