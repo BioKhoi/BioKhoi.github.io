@@ -1,4 +1,7 @@
 ## Honour
+
+- [Editor's Choice - American Journal of Clinical Nutrition](https://www.sciencedirect.com/science/article/pii/S0002916523036122?via%3Dihub) - I am so proud to be the co-first author the led the whole data analysis for this paper: ["Short-chain fatty acids are key mediators of the favorable effects of the Mediterranean diet on intestinal barrier integrity: data from the randomized controlled LIBRE trial] - The paper was published together with an editorial article giving Editor's perspective on my paper ["A complex triad determining metabolic health: diet, host, and microbiome interaction"](https://www.sciencedirect.com/science/article/pii/S000291652303602X?via%3Dihub)
+---
 - [Best of Cell Host and Microbe 2020](https://info.cell.com/best-of-cell-host-and-microbe-2020?utm_campaign=STMJ_143399_CP_PROM&utm_medium=email&utm_acid=136411560&SIS_ID=&dgcid=STMJ_143399_CP_PROM&CMX_ID=&utm_in=DM179763&utm_source=AC_), I am so proud to contribute to a data analysis of Microbiome and SCFA  for ["Precision microbiome modulation with discrete dietary fiber structures directs short-chain fatty acid production"](https://www.sciencedirect.com/science/article/pii/S1931312820300457) paper which was selected as one of the best of Cell Host & Microbe journal in 2020. 
 
 [_DOWNLOAD Best of Cell Host & Microbe 2020_](https://info.cell.com/best-of-cell-host-and-microbe-2020?utm_campaign=STMJ_143399_CP_PROM&utm_medium=email&utm_acid=136411560&SIS_ID=&dgcid=STMJ_143399_CP_PROM&CMX_ID=&utm_in=DM179763&utm_source=AC_)
